@@ -271,6 +271,16 @@ Banner, Top Navigation
   left: 0;
 }
 
+#longdhqlogo {
+    margin-top: 3px;
+    display:block;
+    float: right;
+    position: relative;
+    z-index: 2;
+}
+#longdhqlogo img {
+    height: 60px;
+}
 #topNavigation {
     margin-top: -23px;
     height: 28px;
